@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog preview card solution
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Esta é a minha solução para o desafio ["Blog preview card"](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS) na plataforma [Frontend Mentor](https://www.frontendmentor.io/home). Os desafios da Frontend Mentor ajudam você a melhorar suas habilidades de código ao construir projetos realistas.
 
 ## Table of contents
 
