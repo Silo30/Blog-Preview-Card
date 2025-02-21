@@ -61,4 +61,3 @@ h1:hover {
 
 - LinkedIn - [Silo de Menezes](www.linkedin.com/in/silo-menezes-648920197)
 - Frontend Mentor - [Silo30](https://www.frontendmentor.io/profile/Silo30)
-- Github - [Silo30](https://github.com/Silo30)
