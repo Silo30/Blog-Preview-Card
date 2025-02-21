@@ -26,8 +26,8 @@ O desafio involve criar uma página que mostra um cartão prévia de um blog. De
 
 ### Links
 
-- Link da solução na Frontend Mentor: [Add solution URL here](https://your-solution-url.com)
-- Link para a ver o site: [Add live site URL here](https://your-live-site-url.com)
+- Link da solução na Frontend Mentor: [aqui](https://www.frontendmentor.io/solutions/blog-preview-card-made-with-html-and-css-in-vscode-OP8nqd1W2p)
+- Link para a ver o site: [aqui](https://silo30.github.io/Blog-Preview-Card/)
 
 ## Meu processo
 
